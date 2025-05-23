@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="jalynnbrightsmile.png">
+<SubTexture name="idle0000" x="0" y="614" width="386" height="517" frameX="-12" frameY="-12" frameWidth="408" frameHeight="539" />
+<SubTexture name="idle0001" x="386" y="614" width="385" height="517" frameX="-12" frameY="-11" frameWidth="408" frameHeight="539" />
+<SubTexture name="idle0002" x="774" y="0" width="386" height="518" frameX="-13" frameY="-12" frameWidth="408" frameHeight="539" />
+<SubTexture name="up0000" x="0" y="0" width="380" height="614" frameX="-22" frameY="-4" frameWidth="407" frameHeight="625" />
+<SubTexture name="up0001" x="380" y="0" width="394" height="601" frameX="-9" frameY="-16" frameWidth="407" frameHeight="625" />
+<SubTexture name="right0000" x="0" y="1131" width="482" height="466" frameX="-13" frameY="-14" frameWidth="507" frameHeight="497" />
+<SubTexture name="right0001" x="1160" y="0" width="465" height="471" frameX="-13" frameY="-5" frameWidth="507" frameHeight="497" />
+<SubTexture name="left0000" x="1625" y="0" width="624" height="422" frameX="-13" frameY="-18" frameWidth="647" frameHeight="446" />
+<SubTexture name="left0001" x="482" y="1131" width="623" height="432" frameX="-18" frameY="-4" frameWidth="647" frameHeight="446" />
+<SubTexture name="down0000" x="1625" y="792" width="430" height="362" frameX="-11" frameY="-13" frameWidth="453" frameHeight="387" />
+<SubTexture name="down0001" x="1625" y="422" width="434" height="370" frameX="-11" frameY="-3" frameWidth="453" frameHeight="387" />
+</TextureAtlas>

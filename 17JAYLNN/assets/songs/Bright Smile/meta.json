@@ -1,0 +1,16 @@
+{
+	"beatsPerMeasure": 4,
+	"opponentModeAllowed": true,
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"bpm": 120,
+	"difficulties": [
+		"Jalynn"
+	],
+	"needsVoices": true,
+	"parsedColor": -2331890,
+	"displayName": "Bright Smile",
+	"icon": "Jalynn_Icons",
+	"name": "Bright Smile",
+	"color": "#DC6B0E"
+}

@@ -1,0 +1,4 @@
+<!DOCTYPE codename-engine-character>
+<character y="350" sprite="JalynnMom" isPlayer="true" icon="Kay_Icons" color="#2B35C3">
+	<anim name="idle" anim="idle" x="0" y="0" fps="14" loop="true"/>
+</character>

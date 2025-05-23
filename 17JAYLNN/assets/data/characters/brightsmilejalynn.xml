@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character y="150" sprite="jalynnbrightsmile" icon="Jalynn_Icons" color="#EBEBEB" holdTime="6.1">
+	<anim name="idle" anim="idle" x="0" y="0" fps="7" loop="true"/>
+	<anim name="singLEFT" anim="left" x="220" y="-80" fps="14" loop="false"/>
+	<anim name="singUP" anim="up" x="-0.5" y="86" fps="14" loop="false"/>
+	<anim name="singRIGHT" anim="right" x="-170" y="-50" fps="14" loop="false"/>
+	<anim name="singDOWN" anim="down" x="-30" y="-155" fps="14" loop="false"/>
+</character>
